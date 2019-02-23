@@ -1,0 +1,96 @@
+
+<html>
+
+<head>
+<title> Number Cruncher </title>
+
+<style>
+.correct {
+    color: green
+}
+.max {
+  color: blue
+}
+.error {
+  color: red
+}
+</style>
+
+</head>
+<body>
+
+<h1> Number Cruncher </h1>
+Enter integers separated by commas:
+<input type = 'text' id = 'numbers' onkeyup = 'clearAnswer()'></input>
+<button id = 'btnAdd' onclick = 'addNumbers()'>Add Numbers </button>
+<button id = 'btnFindMax' onclick = 'maxNumbers()'>Find max </button>
+<br><br><br>
+<div id = 'answer' style='font-weight:bold'></div>
+</body>
+
+<script>
+
+function clearAnswer() {
+    div = document.getElementById('answer');
+    div.innerHTML = '';
+}
+
+// gets numbers from text input and converts to an
+// integer array; returns integer array or returns
+// undefined if an invalid number is found
+function getNumberArray() {
+    var num = document.getElementById('numbers');
+    var numStrArray = num.value.split(',');
+    var numberArray = [];
+    for (var i = 0; i < numStrArray.length; i++) {
+
+           x = Number(numStrArray[i]);
+           if (isNaN(x)) {
+                msg = 'Error: at least one value is not an integer';
+                document.getElementById("answer").innerHTML = msg;
+                document.getElementById("answer").classList.add('error');
+                document.getElementById("answer").classList.remove('correct');
+                document.getElementById("answer").classList.remove('max');
+                return undefined;
+           }
+           numberArray.push(x);
+    }
+    return numberArray;
+}
+
+function addNumbers() {
+    clearAnswer();
+    numArray = getNumberArray();
+    if (numArray == undefined) {
+        return;
+    }
+    var sum = 0;
+    for (var i = 0; i < numArray.length; i++) {
+        sum += numArray[i];
+    }
+
+    var div = document.getElementById('answer')
+    document.getElementById("answer").classList.add('correct');
+    document.getElementById("answer").classList.remove('error');
+    document.getElementById("answer").classList.remove('max');
+    msg = 'The sum of the numbers is ' + sum;
+    div.innerHTML = msg;
+}
+
+function maxNumbers() {
+    clearAnswer();
+    numArray = getNumberArray();
+    if (numArray == undefined) {
+        return;
+    }
+    var ans = Math.max(...numArray);
+    var div = document.getElementById('answer');
+    document.getElementById("answer").classList.add('max');
+    document.getElementById("answer").classList.remove('correct');
+    document.getElementById("answer").classList.remove('error');
+    msg = 'The highest number is ' + Math.max(ans);
+    div.innerHTML = msg;
+}
+</script>
+
+</html>
