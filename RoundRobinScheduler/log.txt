@@ -1,0 +1,2613 @@
+INFO:root:Creating threads...
+INFO:root:[CPU time 1.0140016078948975] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2.028003692626953] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3.0420053005218506] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4.056007146835327] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 5.070008754730225]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 6.08401083946228]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 7.098012447357178]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 8.112014293670654]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[CPU time 9.126015901565552]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 10.140017747879028]
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[CPU time 11.154019594192505]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[CPU time 12.168021202087402]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 13.182023286819458]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process 0] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 14.196024894714355]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[CPU time 15.210026741027832]
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[CPU time 16.22402834892273]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[CPU time 17.238030433654785]
+INFO:root:[CPU time 18.252032041549683]
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[CPU time 19.26603388786316]
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 3] [Service left: 4] iterated
+INFO:root:[Process: 3] [Service left: 3] iterated
+INFO:root:[Process: 3] [Service left: 2] iterated
+INFO:root:[Process 3] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 3] [Service left: 1] iterated
+INFO:root:[Process: 3] [Service left: 0] iterated
+INFO:root:[Process 3] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process 2] Completed
+INFO:root:Simulating context switch...
+INFO:root:Simulation Finished. Time takes = 33.45145893096924
+INFO:root:Creating threads...
+INFO:root:[CPU time 1.0140018463134766] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2.028003454208374] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3.0420053005218506] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4.056006908416748] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[CPU time 5.070008993148804]
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 6.084010601043701]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 7.098012447357178]
+INFO:root:Simulating context switch...
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[CPU time 8.101414203643799]
+INFO:root:[CPU time 9.115416049957275]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[CPU time 10.129417896270752]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 11.14341950416565]
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 12.157421350479126]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 13.171423196792603]
+INFO:root:[Process: 1] [Service left: 8] iterated
+INFO:root:[CPU time 14.185425043106079]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[CPU time 15.186326742172241]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 16.187228441238403]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[CPU time 17.20123028755188]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[CPU time 18.215232133865356]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 2] [Service left: 9] iterated
+INFO:root:[CPU time 19.229233980178833]
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[CPU time 20.24323558807373]
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 21.257237195968628]
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[CPU time 22.271239280700684]
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[CPU time 23.28524088859558]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 24.299242734909058]
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 25.313244581222534]
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[CPU time 26.32724642753601]
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[CPU time 27.341248035430908]
+INFO:root:[Process 2] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 3] [Service left: 7] iterated
+INFO:root:[CPU time 28.355249881744385]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 3] [Service left: 6] iterated
+INFO:root:[CPU time 29.36925172805786]
+INFO:root:[Process: 3] [Service left: 5] iterated
+INFO:root:[Process 3] Returning to Queue
+INFO:root:[CPU time 30.383253574371338]
+INFO:root:Simulating context switch...
+INFO:root:[Process 1] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[CPU time 31.397255182266235]
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[CPU time 32.41125679016113]
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[CPU time 33.42525887489319]
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 34.439260482788086]
+INFO:root:[Process: 4] [Service left: 4] iterated
+INFO:root:[CPU time 35.45326232910156]
+INFO:root:[Process: 4] [Service left: 3] iterated
+INFO:root:[Process: 4] [Service left: 2] iterated
+INFO:root:[CPU time 36.46726417541504]
+INFO:root:[Process 4] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:Simulating context switch...
+INFO:root:[Process: 3] [Service left: 4] iterated
+INFO:root:[CPU time 37.481266021728516]
+INFO:root:[Process: 3] [Service left: 3] iterated
+INFO:root:[CPU time 38.48466777801514]
+INFO:root:[Process: 3] [Service left: 2] iterated
+INFO:root:[CPU time 39.49866962432861]
+INFO:root:[Process 3] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[CPU time 40.51267123222351]
+INFO:root:[Process 2] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 5] [Service left: 4] iterated
+INFO:root:[CPU time 41.52667307853699]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 5] [Service left: 3] iterated
+INFO:root:[CPU time 42.540674924850464]
+INFO:root:[Process: 5] [Service left: 2] iterated
+INFO:root:[Process 5] Returning to Queue
+INFO:root:[CPU time 43.55467677116394]
+INFO:root:Simulating context switch...
+INFO:root:[Process: 4] [Service left: 1] iterated
+INFO:root:[CPU time 44.56867837905884]
+INFO:root:[Process: 4] [Service left: 0] iterated
+INFO:root:[CPU time 45.57208013534546]
+INFO:root:[Process 4] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 46.586082220077515]
+INFO:root:[Process: 3] [Service left: 1] iterated
+INFO:root:[CPU time 47.60008382797241]
+INFO:root:[Process: 3] [Service left: 0] iterated
+INFO:root:[Process 3] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 48.61408567428589]
+INFO:root:[Process: 6] [Service left: 4] iterated
+INFO:root:[CPU time 49.628087282180786]
+INFO:root:[Process: 6] [Service left: 3] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 6] [Service left: 2] iterated
+INFO:root:[CPU time 50.64208936691284]
+INFO:root:[Process 6] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 5] [Service left: 1] iterated
+INFO:root:[CPU time 51.65609097480774]
+INFO:root:[Process: 5] [Service left: 0] iterated
+INFO:root:[CPU time 52.670092821121216]
+INFO:root:[Process 5] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 53.68409442901611]
+INFO:root:[Process: 7] [Service left: 7] iterated
+INFO:root:[Process: 7] [Service left: 6] iterated
+INFO:root:[CPU time 54.69809627532959]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 7] [Service left: 5] iterated
+INFO:root:[CPU time 55.712098121643066]
+INFO:root:[Process 7] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 6] [Service left: 1] iterated
+INFO:root:[CPU time 56.726099729537964]
+INFO:root:[Process: 6] [Service left: 0] iterated
+INFO:root:[CPU time 57.74010181427002]
+INFO:root:[Process 6] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 58.75410342216492]
+INFO:root:[Process: 8] [Service left: 6] iterated
+INFO:root:[CPU time 59.768105268478394]
+INFO:root:[Process: 8] [Service left: 5] iterated
+INFO:root:[CPU time 60.78210687637329]
+INFO:root:[Process: 8] [Service left: 4] iterated
+INFO:root:[Process 8] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 61.79610896110535]
+INFO:root:[Process: 7] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 7] [Service left: 3] iterated
+INFO:root:[Process: 7] [Service left: 2] iterated
+INFO:root:[Process 7] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 8] [Service left: 3] iterated
+INFO:root:[Process: 8] [Service left: 2] iterated
+INFO:root:[Process: 8] [Service left: 1] iterated
+INFO:root:[Process 8] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 9] [Service left: 6] iterated
+INFO:root:[Process: 9] [Service left: 5] iterated
+INFO:root:[Process: 9] [Service left: 4] iterated
+INFO:root:[Process 9] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 7] [Service left: 1] iterated
+INFO:root:[Process: 7] [Service left: 0] iterated
+INFO:root:[Process 7] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 8] [Service left: 0] iterated
+INFO:root:[Process 8] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 9] [Service left: 3] iterated
+INFO:root:[Process: 9] [Service left: 2] iterated
+INFO:root:[Process: 9] [Service left: 1] iterated
+INFO:root:[Process 9] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 9] [Service left: 0] iterated
+INFO:root:[Process 9] Completed
+INFO:root:Simulating context switch...
+INFO:root:Simulation Finished. Time takes = 77.99893736839294
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1.029601812362671] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2.0436036586761475] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3.057605266571045] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4.071607351303101] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5.085608959197998] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 6.099610805511475]
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 7.113612413406372]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 8.127614498138428]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 9.141616106033325]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 10.145017862319946]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 11.159019708633423]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 12.17302131652832]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[CPU time 13.187023401260376]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 14.201025009155273]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 15.21502685546875]
+INFO:root:[Process 0] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 16.229028463363647]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[CPU time 17.243030548095703]
+INFO:root:[CPU time 18.246432304382324]
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 19.2604341506958]
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[CPU time 20.2744357585907]
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[CPU time 21.288437604904175]
+INFO:root:[Process 2] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 22.30243945121765]
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[CPU time 23.31644105911255]
+INFO:root:[Process 1] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[CPU time 24.330442905426025]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 25.344444513320923]
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[CPU time 26.35844659805298]
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 27.372448205947876]
+INFO:root:[Process: 3] [Service left: 5] iterated
+INFO:root:[CPU time 28.386450052261353]
+INFO:root:[Process: 3] [Service left: 4] iterated
+INFO:root:[Process: 3] [Service left: 3] iterated
+INFO:root:[CPU time 29.40045189857483]
+INFO:root:[Process 3] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 30.414453744888306]
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 31.428455352783203]
+INFO:root:[Process: 3] [Service left: 2] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 3] [Service left: 1] iterated
+INFO:root:[CPU time 32.4424569606781]
+INFO:root:[CPU time 33.456459045410156]
+INFO:root:[Process: 3] [Service left: 0] iterated
+INFO:root:[Process 3] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 34.470460653305054]
+INFO:root:[Process: 4] [Service left: 5] iterated
+INFO:root:[CPU time 35.48446249961853]
+INFO:root:[Process: 4] [Service left: 4] iterated
+INFO:root:[Process: 4] [Service left: 3] iterated
+INFO:root:[CPU time 36.49846410751343]
+INFO:root:[Process 4] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:Simulating context switch...
+INFO:root:[Process 3] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 5] [Service left: 4] iterated
+INFO:root:[CPU time 37.51246619224548]
+INFO:root:[Process: 5] [Service left: 3] iterated
+INFO:root:[CPU time 38.52646780014038]
+INFO:root:[CPU time 39.54046964645386]
+INFO:root:[Process: 5] [Service left: 2] iterated
+INFO:root:[Process 5] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 40.554471254348755]
+INFO:root:[Process: 4] [Service left: 2] iterated
+INFO:root:[Process: 4] [Service left: 1] iterated
+INFO:root:[CPU time 41.56847333908081]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 4] [Service left: 0] iterated
+INFO:root:[CPU time 42.58247494697571]
+INFO:root:[Process 4] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 43.596476554870605]
+INFO:root:[Process: 5] [Service left: 1] iterated
+INFO:root:[Process: 5] [Service left: 0] iterated
+INFO:root:[CPU time 44.61047863960266]
+INFO:root:[Process 5] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 6] [Service left: 5] iterated
+INFO:root:[CPU time 45.62448024749756]
+INFO:root:[Process: 6] [Service left: 4] iterated
+INFO:root:[CPU time 46.638482093811035]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 6] [Service left: 3] iterated
+INFO:root:[Process 6] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 47.65248370170593]
+INFO:root:[Process 4] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 7] [Service left: 7] iterated
+INFO:root:[CPU time 48.65588569641113]
+INFO:root:[CPU time 49.66988754272461]
+INFO:root:[Process: 7] [Service left: 6] iterated
+INFO:root:[CPU time 50.683889389038086]
+INFO:root:[Process: 7] [Service left: 5] iterated
+INFO:root:[Process 7] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 51.69789099693298]
+INFO:root:[Process: 6] [Service left: 2] iterated
+INFO:root:[CPU time 52.71189284324646]
+INFO:root:[Process: 6] [Service left: 1] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 6] [Service left: 0] iterated
+INFO:root:[CPU time 53.72589468955994]
+INFO:root:[Process 6] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 7] [Service left: 4] iterated
+INFO:root:[CPU time 54.73989653587341]
+INFO:root:[Process: 7] [Service left: 3] iterated
+INFO:root:[CPU time 55.75389814376831]
+INFO:root:[Process: 7] [Service left: 2] iterated
+INFO:root:[Process 7] Returning to Queue
+INFO:root:[CPU time 56.76789975166321]
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 57.781901836395264]
+INFO:root:[Process: 8] [Service left: 9] iterated
+INFO:root:[Process: 8] [Service left: 8] iterated
+INFO:root:[CPU time 58.79590344429016]
+INFO:root:[CPU time 59.80990529060364]
+INFO:root:[Process: 8] [Service left: 7] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 8] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process 6] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 7] [Service left: 1] iterated
+INFO:root:[CPU time 60.823907136917114]
+INFO:root:[Process: 7] [Service left: 0] iterated
+INFO:root:[Process 7] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 61.83790898323059]
+INFO:root:[Process: 9] [Service left: 8] iterated
+INFO:root:[CPU time 62.85191059112549]
+INFO:root:[CPU time 63.865912437438965]
+INFO:root:[Process: 9] [Service left: 7] iterated
+INFO:root:[Process: 9] [Service left: 6] iterated
+INFO:root:[CPU time 64.87991428375244]
+INFO:root:[Process 9] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:Simulating context switch...
+INFO:root:[Process: 8] [Service left: 6] iterated
+INFO:root:[CPU time 65.89391613006592]
+INFO:root:[Process: 8] [Service left: 5] iterated
+INFO:root:[CPU time 66.90791773796082]
+INFO:root:[Process: 8] [Service left: 4] iterated
+INFO:root:[CPU time 67.92191934585571]
+INFO:root:[Process 8] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 68.93592143058777]
+INFO:root:[Process: 10] [Service left: 6] iterated
+INFO:root:[CPU time 69.94992303848267]
+INFO:root:[Process: 10] [Service left: 5] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 10] [Service left: 4] iterated
+INFO:root:[CPU time 70.96392488479614]
+INFO:root:[Process 10] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 9] [Service left: 5] iterated
+INFO:root:[CPU time 71.97792649269104]
+INFO:root:[CPU time 72.9919285774231]
+INFO:root:[Process: 9] [Service left: 4] iterated
+INFO:root:[CPU time 74.005930185318]
+INFO:root:[Process: 9] [Service left: 3] iterated
+INFO:root:[Process 9] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 8] [Service left: 3] iterated
+INFO:root:[CPU time 75.01993203163147]
+INFO:root:[Process: 8] [Service left: 2] iterated
+INFO:root:[CPU time 76.03393387794495]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 8] [Service left: 1] iterated
+INFO:root:[CPU time 77.04793572425842]
+INFO:root:[Process 8] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 11] [Service left: 9] iterated
+INFO:root:[CPU time 78.06193733215332]
+INFO:root:[Process: 11] [Service left: 8] iterated
+INFO:root:[CPU time 79.06533932685852]
+INFO:root:[Process: 11] [Service left: 7] iterated
+INFO:root:[Process 11] Returning to Queue
+INFO:root:[CPU time 80.07934093475342]
+INFO:root:Simulating context switch...
+INFO:root:[Process: 10] [Service left: 3] iterated
+INFO:root:[CPU time 81.0933427810669]
+INFO:root:[Process: 10] [Service left: 2] iterated
+INFO:root:[CPU time 82.10734462738037]
+INFO:root:[CPU time 83.12134623527527]
+INFO:root:[Process: 10] [Service left: 1] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 10] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 84.13534808158875]
+INFO:root:[Process: 9] [Service left: 2] iterated
+INFO:root:[Process: 9] [Service left: 1] iterated
+INFO:root:[CPU time 85.14934992790222]
+INFO:root:[Process: 9] [Service left: 0] iterated
+INFO:root:[CPU time 86.16335153579712]
+INFO:root:[Process 9] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 12] [Service left: 6] iterated
+INFO:root:[CPU time 87.1773533821106]
+INFO:root:[Process: 12] [Service left: 5] iterated
+INFO:root:[CPU time 88.19135522842407]
+INFO:root:[Process: 12] [Service left: 4] iterated
+INFO:root:[Process 12] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 89.20535707473755]
+INFO:root:[Process: 8] [Service left: 0] iterated
+INFO:root:[CPU time 90.21935892105103]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 8] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 11] [Service left: 6] iterated
+INFO:root:[CPU time 91.23336052894592]
+INFO:root:[Process: 11] [Service left: 5] iterated
+INFO:root:[CPU time 92.24736213684082]
+INFO:root:[Process: 11] [Service left: 4] iterated
+INFO:root:[CPU time 93.26136422157288]
+INFO:root:[Process 11] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 13] [Service left: 4] iterated
+INFO:root:[CPU time 94.27536582946777]
+INFO:root:[Process: 13] [Service left: 3] iterated
+INFO:root:[CPU time 95.28936767578125]
+INFO:root:[Process: 13] [Service left: 2] iterated
+INFO:root:[CPU time 96.30336952209473]
+INFO:root:[Process 13] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 10] [Service left: 0] iterated
+INFO:root:[CPU time 97.3173713684082]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 10] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process 9] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 98.3313729763031]
+INFO:root:[Process: 12] [Service left: 3] iterated
+INFO:root:[Process: 12] [Service left: 2] iterated
+INFO:root:[CPU time 99.34537482261658]
+INFO:root:[Process: 12] [Service left: 1] iterated
+INFO:root:[CPU time 100.35937666893005]
+INFO:root:[Process 12] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 14] [Service left: 4] iterated
+INFO:root:[CPU time 101.37337851524353]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 102.38738012313843]
+INFO:root:[Process: 14] [Service left: 3] iterated
+INFO:root:[CPU time 103.40138173103333]
+INFO:root:[Process: 14] [Service left: 2] iterated
+INFO:root:[Process 14] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 11] [Service left: 3] iterated
+INFO:root:[CPU time 104.41538381576538]
+INFO:root:[CPU time 105.42938542366028]
+INFO:root:[Process: 11] [Service left: 2] iterated
+INFO:root:[CPU time 106.44338726997375]
+INFO:root:[Process: 11] [Service left: 1] iterated
+INFO:root:[Process 11] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 13] [Service left: 1] iterated
+INFO:root:[CPU time 107.45738911628723]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 108.46079087257385]
+INFO:root:[Process: 13] [Service left: 0] iterated
+INFO:root:[Process 13] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 109.47479271888733]
+INFO:root:[Process: 15] [Service left: 8] iterated
+INFO:root:[CPU time 110.48879432678223]
+INFO:root:[Process: 15] [Service left: 7] iterated
+INFO:root:[CPU time 111.5027961730957]
+INFO:root:[Process: 15] [Service left: 6] iterated
+INFO:root:[Process 15] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 112.51679801940918]
+INFO:root:[Process: 12] [Service left: 0] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 12] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 16] [Service left: 7] iterated
+INFO:root:[CPU time 113.53079986572266]
+INFO:root:[CPU time 114.54480171203613]
+INFO:root:[Process: 16] [Service left: 6] iterated
+INFO:root:[Process: 16] [Service left: 5] iterated
+INFO:root:[CPU time 115.55880331993103]
+INFO:root:[Process 16] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 116.5728051662445]
+INFO:root:[Process: 14] [Service left: 1] iterated
+INFO:root:[CPU time 117.58680701255798]
+INFO:root:[Process: 14] [Service left: 0] iterated
+INFO:root:[Process 14] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 118.60080862045288]
+INFO:root:[Process: 11] [Service left: 0] iterated
+INFO:root:[Process 11] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 17] [Service left: 6] iterated
+INFO:root:[CPU time 119.61481046676636]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 120.62881231307983]
+INFO:root:[Process: 17] [Service left: 5] iterated
+INFO:root:[CPU time 121.64281392097473]
+INFO:root:[Process: 17] [Service left: 4] iterated
+INFO:root:[Process 17] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 15] [Service left: 5] iterated
+INFO:root:[CPU time 122.65681576728821]
+INFO:root:[Process: 15] [Service left: 4] iterated
+INFO:root:[CPU time 123.67081785202026]
+INFO:root:[Process: 15] [Service left: 3] iterated
+INFO:root:[CPU time 124.68481945991516]
+INFO:root:[Process 15] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 18] [Service left: 9] iterated
+INFO:root:[CPU time 125.69882106781006]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 126.71282291412354]
+INFO:root:[Process: 18] [Service left: 8] iterated
+INFO:root:[CPU time 127.72682476043701]
+INFO:root:[Process: 18] [Service left: 7] iterated
+INFO:root:[Process 18] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 128.7408266067505]
+INFO:root:[Process: 16] [Service left: 4] iterated
+INFO:root:[Process: 16] [Service left: 3] iterated
+INFO:root:[CPU time 129.75482821464539]
+INFO:root:[Process: 16] [Service left: 2] iterated
+INFO:root:[CPU time 130.76883006095886]
+INFO:root:[Process 16] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 19] [Service left: 7] iterated
+INFO:root:[CPU time 131.78283190727234]
+INFO:root:[Process: 19] [Service left: 6] iterated
+INFO:root:[CPU time 132.79683375358582]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 19] [Service left: 5] iterated
+INFO:root:[CPU time 133.8108353614807]
+INFO:root:[Process 19] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 134.8248372077942]
+INFO:root:[Process: 17] [Service left: 3] iterated
+INFO:root:[CPU time 135.83883905410767]
+INFO:root:[Process: 17] [Service left: 2] iterated
+INFO:root:[CPU time 136.85284066200256]
+INFO:root:[Process: 17] [Service left: 1] iterated
+INFO:root:[Process 17] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 137.86684250831604]
+INFO:root:[Process: 15] [Service left: 2] iterated
+INFO:root:[Process: 15] [Service left: 1] iterated
+INFO:root:[CPU time 138.87024426460266]
+INFO:root:[CPU time 139.88424611091614]
+INFO:root:[Process: 15] [Service left: 0] iterated
+INFO:root:[Process 15] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 140.89824795722961]
+INFO:root:[Process: 20] [Service left: 5] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 141.9122498035431]
+INFO:root:[Process: 20] [Service left: 4] iterated
+INFO:root:[CPU time 142.926251411438]
+INFO:root:[Process: 20] [Service left: 3] iterated
+INFO:root:[Process 20] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 143.94025349617004]
+INFO:root:[Process: 18] [Service left: 6] iterated
+INFO:root:[Process: 18] [Service left: 5] iterated
+INFO:root:[CPU time 144.95425510406494]
+INFO:root:[Process: 18] [Service left: 4] iterated
+INFO:root:[CPU time 145.96825671195984]
+INFO:root:[Process 18] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 16] [Service left: 1] iterated
+INFO:root:[CPU time 146.98225855827332]
+INFO:root:[Process: 16] [Service left: 0] iterated
+INFO:root:[CPU time 147.9962604045868]
+INFO:root:[Process 16] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 21] [Service left: 9] iterated
+INFO:root:[CPU time 149.01026225090027]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 150.02426385879517]
+INFO:root:[Process: 21] [Service left: 8] iterated
+INFO:root:[CPU time 151.03826570510864]
+INFO:root:[Process: 21] [Service left: 7] iterated
+INFO:root:[Process 21] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 152.05226755142212]
+INFO:root:[Process: 19] [Service left: 4] iterated
+INFO:root:[CPU time 153.0662693977356]
+INFO:root:[Process: 19] [Service left: 3] iterated
+INFO:root:[CPU time 154.0802710056305]
+INFO:root:[Process: 19] [Service left: 2] iterated
+INFO:root:[Process 19] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 155.0942726135254]
+INFO:root:[Process: 17] [Service left: 0] iterated
+INFO:root:[Process 17] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process 15] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 156.10827469825745]
+INFO:root:[Process: 22] [Service left: 9] iterated
+INFO:root:[CPU time 157.12227630615234]
+INFO:root:[Process: 22] [Service left: 8] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 22] [Service left: 7] iterated
+INFO:root:[Process 22] Returning to Queue
+INFO:root:[CPU time 158.13627815246582]
+INFO:root:Simulating context switch...
+INFO:root:[Process: 20] [Service left: 2] iterated
+INFO:root:[CPU time 159.15028023719788]
+INFO:root:[Process: 20] [Service left: 1] iterated
+INFO:root:[CPU time 160.16428184509277]
+INFO:root:[Process: 20] [Service left: 0] iterated
+INFO:root:[CPU time 161.17828345298767]
+INFO:root:[Process 20] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:Simulating context switch...
+INFO:root:[Process: 18] [Service left: 3] iterated
+INFO:root:[CPU time 162.19228529930115]
+INFO:root:[Process: 18] [Service left: 2] iterated
+INFO:root:[CPU time 163.20628714561462]
+INFO:root:[Process: 18] [Service left: 1] iterated
+INFO:root:[CPU time 164.2202889919281]
+INFO:root:[Process 18] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 165.234290599823]
+INFO:root:[Process: 23] [Service left: 8] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 166.2482922077179]
+INFO:root:[Process: 23] [Service left: 7] iterated
+INFO:root:[CPU time 167.26229429244995]
+INFO:root:[Process: 23] [Service left: 6] iterated
+INFO:root:[Process 23] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 168.27629613876343]
+INFO:root:[Process: 21] [Service left: 6] iterated
+INFO:root:[Process: 21] [Service left: 5] iterated
+INFO:root:[CPU time 169.27969789505005]
+INFO:root:[CPU time 170.29369950294495]
+INFO:root:[Process: 21] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 21] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 19] [Service left: 1] iterated
+INFO:root:[CPU time 171.30770134925842]
+INFO:root:[Process: 19] [Service left: 0] iterated
+INFO:root:[CPU time 172.3217031955719]
+INFO:root:[Process 19] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 173.33570504188538]
+INFO:root:[Process: 24] [Service left: 8] iterated
+INFO:root:[CPU time 174.34970664978027]
+INFO:root:[Process: 24] [Service left: 7] iterated
+INFO:root:[CPU time 175.36370873451233]
+INFO:root:[Process: 24] [Service left: 6] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 24] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 176.37771034240723]
+INFO:root:[Process: 22] [Service left: 6] iterated
+INFO:root:[CPU time 177.3917121887207]
+INFO:root:[Process: 22] [Service left: 5] iterated
+INFO:root:[CPU time 178.4057137966156]
+INFO:root:[Process: 22] [Service left: 4] iterated
+INFO:root:[Process 22] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 25] [Service left: 8] iterated
+INFO:root:[CPU time 179.41971564292908]
+INFO:root:[Process: 25] [Service left: 7] iterated
+INFO:root:[CPU time 180.43371748924255]
+INFO:root:[CPU time 181.44771909713745]
+INFO:root:[Process: 25] [Service left: 6] iterated
+INFO:root:[Process 25] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process 20] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 25] [Service left: 5] iterated
+INFO:root:[CPU time 182.46172094345093]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 25] [Service left: 4] iterated
+INFO:root:[CPU time 183.4757227897644]
+INFO:root:[CPU time 184.48972463607788]
+INFO:root:[Process: 25] [Service left: 3] iterated
+INFO:root:[Process 25] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 185.50372624397278]
+INFO:root:[Process: 26] [Service left: 7] iterated
+INFO:root:[CPU time 186.51772809028625]
+INFO:root:[Process: 26] [Service left: 6] iterated
+INFO:root:[CPU time 187.53172993659973]
+INFO:root:[Process: 26] [Service left: 5] iterated
+INFO:root:[Process 26] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 188.5457317829132]
+INFO:root:[Process: 23] [Service left: 5] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 189.5597333908081]
+INFO:root:[Process: 23] [Service left: 4] iterated
+INFO:root:[Process: 23] [Service left: 3] iterated
+INFO:root:[Process 23] Returning to Queue
+INFO:root:[CPU time 190.573734998703]
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 191.58773708343506]
+INFO:root:[Process: 27] [Service left: 7] iterated
+INFO:root:[Process: 27] [Service left: 6] iterated
+INFO:root:[CPU time 192.60173869132996]
+INFO:root:[Process: 27] [Service left: 5] iterated
+INFO:root:[CPU time 193.61574053764343]
+INFO:root:[Process 27] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 21] [Service left: 3] iterated
+INFO:root:[CPU time 194.6297426223755]
+INFO:root:[Process: 21] [Service left: 2] iterated
+INFO:root:[CPU time 195.64374423027039]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 21] [Service left: 1] iterated
+INFO:root:[CPU time 196.65774583816528]
+INFO:root:[Process 21] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 28] [Service left: 4] iterated
+INFO:root:[CPU time 197.67174768447876]
+INFO:root:[Process: 28] [Service left: 3] iterated
+INFO:root:[CPU time 198.68574953079224]
+INFO:root:[CPU time 199.68915152549744]
+INFO:root:[Process: 28] [Service left: 2] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 28] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 24] [Service left: 5] iterated
+INFO:root:[CPU time 200.70315313339233]
+INFO:root:[CPU time 201.7171549797058]
+INFO:root:[Process: 24] [Service left: 4] iterated
+INFO:root:[CPU time 202.7311565876007]
+INFO:root:[Process: 24] [Service left: 3] iterated
+INFO:root:[Process 24] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 22] [Service left: 3] iterated
+INFO:root:[CPU time 203.7359597682953]
+INFO:root:[Process: 22] [Service left: 2] iterated
+INFO:root:[CPU time 204.74466943740845]
+INFO:root:[Process: 22] [Service left: 1] iterated
+INFO:root:[Process 22] Returning to Queue
+INFO:root:[CPU time 205.7499771118164]
+INFO:root:Simulating context switch...
+INFO:root:[Queue size: 2], Added process
+INFO:root:[Process: 18] [Service left: 0] iterated
+INFO:root:[CPU time 206.7506823539734]
+INFO:root:[Process 18] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 29] [Service left: 4] iterated
+INFO:root:[CPU time 207.751886844635]
+INFO:root:[CPU time 208.75358986854553]
+INFO:root:[Process: 29] [Service left: 3] iterated
+INFO:root:[Process: 29] [Service left: 2] iterated
+INFO:root:[CPU time 209.767591714859]
+INFO:root:[Process 29] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 210.78159356117249]
+INFO:root:[Process: 25] [Service left: 2] iterated
+INFO:root:[Process: 25] [Service left: 1] iterated
+INFO:root:[CPU time 211.79559516906738]
+INFO:root:[Process: 25] [Service left: 0] iterated
+INFO:root:[CPU time 212.80959701538086]
+INFO:root:[Process 25] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:Simulating context switch...
+INFO:root:[Process: 26] [Service left: 4] iterated
+INFO:root:[CPU time 213.82359886169434]
+INFO:root:[Process: 26] [Service left: 3] iterated
+INFO:root:[CPU time 214.8376007080078]
+INFO:root:[Process: 26] [Service left: 2] iterated
+INFO:root:[CPU time 215.8516023159027]
+INFO:root:[Process 26] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 30] [Service left: 8] iterated
+INFO:root:[CPU time 216.86560440063477]
+INFO:root:[Process: 30] [Service left: 7] iterated
+INFO:root:[CPU time 217.87960600852966]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 30] [Service left: 6] iterated
+INFO:root:[CPU time 218.89360785484314]
+INFO:root:[Process 30] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 23] [Service left: 2] iterated
+INFO:root:[CPU time 219.90760946273804]
+INFO:root:[CPU time 220.9216113090515]
+INFO:root:[Process: 23] [Service left: 1] iterated
+INFO:root:[CPU time 221.935613155365]
+INFO:root:[Process: 23] [Service left: 0] iterated
+INFO:root:[Process 23] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 222.9496147632599]
+INFO:root:[Process: 27] [Service left: 4] iterated
+INFO:root:[CPU time 223.96361660957336]
+INFO:root:[Process: 27] [Service left: 3] iterated
+INFO:root:[Process: 27] [Service left: 2] iterated
+INFO:root:[Process 27] Returning to Queue
+INFO:root:[CPU time 224.97761845588684]
+INFO:root:Simulating context switch...
+INFO:root:[Process: 31] [Service left: 5] iterated
+INFO:root:[CPU time 225.97792053222656]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 31] [Service left: 4] iterated
+INFO:root:[CPU time 226.99192214012146]
+INFO:root:[CPU time 228.00592398643494]
+INFO:root:[Process: 31] [Service left: 3] iterated
+INFO:root:[Process 31] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 229.00702738761902]
+INFO:root:[Process: 21] [Service left: 0] iterated
+INFO:root:[Process 21] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 32] [Service left: 9] iterated
+INFO:root:[CPU time 230.00863003730774]
+INFO:root:[Process: 32] [Service left: 8] iterated
+INFO:root:[CPU time 231.0184383392334]
+INFO:root:[CPU time 232.02084255218506]
+INFO:root:[Process: 32] [Service left: 7] iterated
+INFO:root:[Process 32] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 233.02385663986206]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 28] [Service left: 1] iterated
+INFO:root:[CPU time 234.02637195587158]
+INFO:root:[Process: 28] [Service left: 0] iterated
+INFO:root:[Process 28] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 235.02638745307922]
+INFO:root:[Process: 24] [Service left: 2] iterated
+INFO:root:[CPU time 236.0264027118683]
+INFO:root:[Process: 24] [Service left: 1] iterated
+INFO:root:[CPU time 237.02641820907593]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 24] [Service left: 0] iterated
+INFO:root:[Process 24] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 238.026433467865]
+INFO:root:[Process: 22] [Service left: 0] iterated
+INFO:root:[Process 22] Completed
+INFO:root:Simulating context switch...
+INFO:root:[CPU time 239.02644872665405]
+INFO:root:[Process: 33] [Service left: 4] iterated
+INFO:root:[CPU time 240.0264642238617]
+INFO:root:[Process: 33] [Service left: 3] iterated
+INFO:root:[CPU time 241.02647948265076]
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 33] [Service left: 2] iterated
+INFO:root:[Process 33] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 29] [Service left: 1] iterated
+INFO:root:[Process: 29] [Service left: 0] iterated
+INFO:root:[Process 29] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 34] [Service left: 6] iterated
+INFO:root:[Process: 34] [Service left: 5] iterated
+INFO:root:[Process: 34] [Service left: 4] iterated
+INFO:root:[Process 34] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process 25] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 26] [Service left: 1] iterated
+INFO:root:[Process: 26] [Service left: 0] iterated
+INFO:root:[Process 26] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 35] [Service left: 7] iterated
+INFO:root:[Process: 35] [Service left: 6] iterated
+INFO:root:[Process: 35] [Service left: 5] iterated
+INFO:root:[Process 35] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 30] [Service left: 5] iterated
+INFO:root:[Process: 30] [Service left: 4] iterated
+INFO:root:[Process: 30] [Service left: 3] iterated
+INFO:root:[Process 30] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process 23] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 27] [Service left: 1] iterated
+INFO:root:[Process: 27] [Service left: 0] iterated
+INFO:root:[Process 27] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 36] [Service left: 7] iterated
+INFO:root:[Process: 36] [Service left: 6] iterated
+INFO:root:[Process: 36] [Service left: 5] iterated
+INFO:root:[Process 36] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 36] [Service left: 4] iterated
+INFO:root:[Process: 36] [Service left: 3] iterated
+INFO:root:[Process: 36] [Service left: 2] iterated
+INFO:root:[Process 36] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 32] [Service left: 6] iterated
+INFO:root:[Process: 32] [Service left: 5] iterated
+INFO:root:[Process: 32] [Service left: 4] iterated
+INFO:root:[Process 32] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 37] [Service left: 9] iterated
+INFO:root:[Process: 37] [Service left: 8] iterated
+INFO:root:[Process: 37] [Service left: 7] iterated
+INFO:root:[Process 37] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 38] [Service left: 5] iterated
+INFO:root:[Process: 38] [Service left: 4] iterated
+INFO:root:[Process: 38] [Service left: 3] iterated
+INFO:root:[Process 38] Returning to Queue
+INFO:root:[Process 24] Completed
+INFO:root:Simulating context switch...
+INFO:root:Simulating context switch...
+INFO:root:[Process: 39] [Service left: 6] iterated
+INFO:root:[Process: 39] [Service left: 5] iterated
+INFO:root:[Process: 39] [Service left: 4] iterated
+INFO:root:[Process 39] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 33] [Service left: 1] iterated
+INFO:root:[Process: 33] [Service left: 0] iterated
+INFO:root:[Process 33] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 34] [Service left: 3] iterated
+INFO:root:[Process: 34] [Service left: 2] iterated
+INFO:root:[Process: 34] [Service left: 1] iterated
+INFO:root:[Process 34] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 35] [Service left: 4] iterated
+INFO:root:[Process: 35] [Service left: 3] iterated
+INFO:root:[Process: 35] [Service left: 2] iterated
+INFO:root:[Process 35] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 30] [Service left: 2] iterated
+INFO:root:[Process: 30] [Service left: 1] iterated
+INFO:root:[Process: 30] [Service left: 0] iterated
+INFO:root:[Process 30] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 31] [Service left: 2] iterated
+INFO:root:[Process: 31] [Service left: 1] iterated
+INFO:root:[Process: 31] [Service left: 0] iterated
+INFO:root:[Process 31] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 36] [Service left: 1] iterated
+INFO:root:[Process: 36] [Service left: 0] iterated
+INFO:root:[Process 36] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 32] [Service left: 3] iterated
+INFO:root:[Process: 32] [Service left: 2] iterated
+INFO:root:[Process: 32] [Service left: 1] iterated
+INFO:root:[Process 32] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 37] [Service left: 6] iterated
+INFO:root:[Process: 37] [Service left: 5] iterated
+INFO:root:[Process: 37] [Service left: 4] iterated
+INFO:root:[Process 37] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 38] [Service left: 2] iterated
+INFO:root:[Process: 38] [Service left: 1] iterated
+INFO:root:[Process: 38] [Service left: 0] iterated
+INFO:root:[Process 38] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 39] [Service left: 3] iterated
+INFO:root:[Process: 39] [Service left: 2] iterated
+INFO:root:[Process: 39] [Service left: 1] iterated
+INFO:root:[Process 39] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process: 34] [Service left: 0] iterated
+INFO:root:[Process 34] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 35] [Service left: 1] iterated
+INFO:root:[Process: 35] [Service left: 0] iterated
+INFO:root:[Process 35] Completed
+INFO:root:[Process 30] Completed
+INFO:root:[Process 31] Completed
+INFO:root:Simulating context switch...
+INFO:root:Simulating context switch...
+INFO:root:Simulating context switch...
+INFO:root:[Process: 32] [Service left: 0] iterated
+INFO:root:[Process 32] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 37] [Service left: 3] iterated
+INFO:root:[Process: 37] [Service left: 2] iterated
+INFO:root:[Process: 37] [Service left: 1] iterated
+INFO:root:[Process 37] Returning to Queue
+INFO:root:Simulating context switch...
+INFO:root:[Process 38] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 39] [Service left: 0] iterated
+INFO:root:[Process 39] Completed
+INFO:root:Simulating context switch...
+INFO:root:[Process: 37] [Service left: 0] iterated
+INFO:root:[Process 37] Completed
+INFO:root:Simulating context switch...
+INFO:root:Simulation Finished. Time takes = 312.17955255508423
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1.1086018085479736] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2.1226038932800293] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3.1230053901672363] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4.123407363891602] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5.137409448623657] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6.138811111450195] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7.1402130126953125] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 8.15521502494812]
+INFO:root:[CPU time 9.169216871261597]
+INFO:root:[CPU time 10.184218645095825]
+INFO:root:[CPU time 11.185620546340942]
+INFO:root:[CPU time 12.19962215423584]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 13.204024314880371]
+INFO:root:[CPU time 14.205426216125488]
+INFO:root:[CPU time 15.220427989959717]
+INFO:root:[CPU time 16.234430074691772]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 17.249431848526]
+INFO:root:[CPU time 18.249833822250366]
+INFO:root:[CPU time 19.263835430145264]
+INFO:root:[CPU time 20.27783703804016]
+INFO:root:[CPU time 21.29283905029297]
+INFO:root:[CPU time 22.306840896606445]
+INFO:root:[CPU time 23.31424307823181]
+INFO:root:[CPU time 24.31564497947693]
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1.0140016078948975] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2.029003620147705] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3.0430054664611816] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4.058007001876831] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5.058408975601196] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6.072410821914673] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7.08641242980957] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 8.087814331054688]
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 9.102816343307495]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 10.103218078613281]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 11.118220090866089]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 12.118621826171875]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[CPU time 13.132623672485352]
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[CPU time 14.140026092529297]
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[CPU time 15.141427993774414]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 16.156429767608643]
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[CPU time 17.17043137550354]
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[CPU time 18.170833349227905]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[CPU time 19.17123532295227]
+INFO:root:[Process 1] Completed
+INFO:root:[CPU time 20.185236930847168]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 21.186638832092285]
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[CPU time 22.18804097175598]
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[CPU time 23.20344376564026]
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[CPU time 24.203845500946045]
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[CPU time 25.20424723625183]
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[CPU time 26.218249082565308]
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 2] Returning to Queue
+INFO:root:All processes added
+INFO:root:[Process: 3] [Service left: 4] iterated
+INFO:root:[Process: 3] [Service left: 3] iterated
+INFO:root:[Process 3] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Completed
+INFO:root:[Process: 3] [Service left: 2] iterated
+INFO:root:[Process: 3] [Service left: 1] iterated
+INFO:root:[Process 3] Returning to Queue
+INFO:root:[Process: 3] [Service left: 0] iterated
+INFO:root:[Process 3] Completed
+INFO:root:Simulation Finished. Time takes = 33.297062158584595
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1.0014021396636963] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2.0164036750793457] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3.0304057598114014] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4.04540753364563] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5.046611309051514] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6.055013418197632] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 7.056415319442749]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 8.071417093276978]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 9.085418939590454]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 10.100420951843262]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11.100822687149048]
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 12.101224422454834]
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[CPU time 13.11522650718689]
+INFO:root:[CPU time 14.117628574371338]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 15.132630109786987]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 16.146631956100464]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 17.161633729934692]
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[CPU time 18.162035703659058]
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[CPU time 19.176037311553955]
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[CPU time 20.19003939628601]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 2] [Service left: 9] iterated
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 31.30925941467285
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1.0140016078948975] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2.0144035816192627] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3.029405355453491] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4.043407201766968] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5.044809103012085] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6.046211004257202] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7.061212778091431] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 8.061614751815796] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 9.064016580581665]
+INFO:root:[Process: 0] [Service left: 9] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 10.078018426895142]
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11.078420400619507]
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 12.079822301864624]
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 13.093026399612427]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 14.100429058074951]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 15.100831031799316]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 16.114832639694214]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 17.12883424758911]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 18.130236387252808]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 1] Returning to Queue
+INFO:root:All processes added
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 32.25166201591492
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1.0140018463134766] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2.029003620147705] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3.0294055938720703] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4.043407201766968] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5.057409048080444] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6.0608110427856445] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7.063213109970093] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 8.07721495628357] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 9]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 10]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 12]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 13]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[CPU time 14]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 15]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 16]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 17]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 18]
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 19]
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 20]
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 21]
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[CPU time 22]
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 30.280855894088745
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 6]
+INFO:root:[Process: 0] [Service left: 9] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 7]
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 8]
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 10]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 12]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 13]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 14]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 15]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 16]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 17]
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:All processes added
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 30.393853664398193
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 8] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 10]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[CPU time 11]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 12]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[CPU time 13]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 14]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 15]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 16]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 17]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 18]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[CPU time 19]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 33.449458599090576
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 8] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 9]
+INFO:root:[CPU time 10]
+INFO:root:[CPU time 11]
+INFO:root:[CPU time 12]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 13]
+INFO:root:[CPU time 14]
+INFO:root:[CPU time 15]
+INFO:root:[CPU time 16]
+INFO:root:[CPU time 17]
+INFO:root:[CPU time 18]
+INFO:root:[CPU time 19]
+INFO:root:[CPU time 20]
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:Initial wait: 1522792102.9313977
+INFO:root:[Process: 0] [Service left: 9] iterated
+INFO:root:[CPU time 6]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[CPU time 7]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[CPU time 8]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 10]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[CPU time 11]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 12]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 13]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 14]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:Initial wait: 1522792103.9453995
+INFO:root:[CPU time 15]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 16]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 17]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process 0] Completed
+INFO:root:Initial wait: 1522792102.9313977
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:[Process 1] Completed
+INFO:root:Simulation Finished. Time takes = 28.3784499168396
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:Initial wait: 0.0
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[CPU time 6]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[CPU time 7]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 8]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[CPU time 10]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 11]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[CPU time 12]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:Initial wait: 0.0
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 13]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 14]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[CPU time 15]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 16]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:Initial wait: 1.0140018463134766
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 30.406453371047974
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:Initial wait: 1522792299.117545
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[CPU time 5]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 6]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 7]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[CPU time 8]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 10]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 11]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:Initial wait: 1522792299.117545
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 12]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 13]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[CPU time 14]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[CPU time 15]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[CPU time 16]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[CPU time 17]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[CPU time 18]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[CPU time 19]
+INFO:root:[Queue size: 1], Added process
+INFO:root:Initial wait: 1522792299.117545
+INFO:root:All processes added
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 28.3784499168396
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[CPU time 8]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 10]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 11]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[CPU time 12]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 13]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[CPU time 14]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 1] [Service left: 8] iterated
+INFO:root:[CPU time 15]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 16]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[CPU time 17]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 18]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 9] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 36.47686409950256
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 8]
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 9]
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 10]
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 12]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 13]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 14]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 15]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 16]
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 17]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 18]
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 19]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[CPU time 20]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 1] Returning to Queue
+INFO:root:All processes added
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 33.449458837509155
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 5]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 6]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 7]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 8]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 10]
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11]
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 12]
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 13]
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[CPU time 14]
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[CPU time 15]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 25.35004472732544
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 8]
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 9]
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 10]
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 12]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 13]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 9] iterated
+INFO:root:[CPU time 14]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 15]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 16]
+INFO:root:[Process: 1] [Service left: 8] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 17]
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 18]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 19]
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 20]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[CPU time 21]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 1] Returning to Queue
+INFO:root:All processes added
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 33.4484589099884
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 6]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[CPU time 7]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 8]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 10]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[CPU time 11]
+INFO:root:[CPU time 12]
+INFO:root:[CPU time 13]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[CPU time 14]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 15]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 16]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 17]
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 18]
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[CPU time 19]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 20]
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 27.367448091506958
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[CPU time 8]
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 10]
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11]
+INFO:root:[CPU time 12]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 13]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 14]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 15]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 16]
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 17]
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 1] Returning to Queue
+INFO:root:All processes added
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 30.411953449249268
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 7] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 8] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[Process: 0] [Service left: 9] iterated
+INFO:root:[CPU time 9]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 8] iterated
+INFO:root:[CPU time 10]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 11]
+INFO:root:[Process: 0] [Service left: 7] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 12]
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[CPU time 13]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 14]
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 15]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 16]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 17]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 18]
+INFO:root:[Queue size: 1], Added process
+INFO:root:All processes added
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 2] [Service left: 9] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 37.48126554489136
+INFO:root:-_-_-_-NEW EXECUTION-_-_-_-
+INFO:root:Creating threads...
+INFO:root:[CPU time 1] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 2] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 3] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 4] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 5] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[CPU time 6] no Processes have arrived yet
+INFO:root:________________________________________
+INFO:root:[Queue size: 1] Added process
+INFO:root:[Process: 0] [Service left: 6] iterated
+INFO:root:[CPU time 7]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 8]
+INFO:root:[Process: 0] [Service left: 5] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 4] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 9]
+INFO:root:[CPU time 10]
+INFO:root:[Process: 0] [Service left: 3] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Process: 0] [Service left: 2] iterated
+INFO:root:[CPU time 11]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 1] [Service left: 8] iterated
+INFO:root:[CPU time 12]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 13]
+INFO:root:[Process: 0] [Service left: 1] iterated
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 14]
+INFO:root:[Process: 1] [Service left: 7] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 0] [Service left: 0] iterated
+INFO:root:[CPU time 15]
+INFO:root:[Process 0] Returning to Queue
+INFO:root:[CPU time 16]
+INFO:root:[Process: 1] [Service left: 6] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process 0] Completed
+INFO:root:[Process: 1] [Service left: 5] iterated
+INFO:root:[CPU time 17]
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 18]
+INFO:root:[Process: 1] [Service left: 4] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[CPU time 19]
+INFO:root:[Queue size: 1], Added process
+INFO:root:[Process: 1] [Service left: 3] iterated
+INFO:root:All processes added
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 8] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 2] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 7] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 1] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 6] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 1] [Service left: 0] iterated
+INFO:root:[Process 1] Returning to Queue
+INFO:root:[Process: 2] [Service left: 5] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 1] Completed
+INFO:root:[Process: 2] [Service left: 4] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 3] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 2] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 1] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process: 2] [Service left: 0] iterated
+INFO:root:[Process 2] Returning to Queue
+INFO:root:[Process 2] Completed
+INFO:root:Simulation Finished. Time takes = 32.43745708465576

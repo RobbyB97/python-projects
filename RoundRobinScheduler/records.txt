@@ -1,0 +1,27 @@
+_____________________
+
+ID: 0
+Start Time: 6.084010601043701
+Service Time: 7
+End Time: 16.213428497314453
+Turnaround Time: 10.129417896270752
+Initial Wait Time: 6.084010601043701
+Total Wait Time: 15.199426889419556_____________________
+
+ID: 1
+Start Time: 11.154019594192505
+Service Time: 9
+End Time: 26.35344624519348
+Turnaround Time: 15.199426651000977
+Initial Wait Time: 11.154019594192505
+Total Wait Time: 25.339444637298584_____________________
+
+ID: 2
+Start Time: 19.255434036254883
+Service Time: 9
+End Time: 31.423455238342285
+Turnaround Time: 12.168021202087402
+Initial Wait Time: 19.255434036254883
+Total Wait Time: 31.423455238342285
+ 
+ Average Turnaround time: 12.498955249786377
